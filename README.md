@@ -15,4 +15,4 @@ To generate the deployment data for a new network the following steps are necess
 
 - Set `MNEMONIC` in the `.env` file
 - Run `yarn compile <chain_id> [--gasPrice <overwrite_gas_price>] [--gasLimit <overwrite_gas_limit>]`
-
+- Run `yarn submit`
